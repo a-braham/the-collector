@@ -1,0 +1,9 @@
+export FLASK_APP=run
+export FLASK_ENV=development
+export JWT_SECRET_KEY=your_key
+export DATABASE_URL="database_manager://username:password@host/database_name"
+# Add twitter keys and tokens
+export CONSUMER_KEY=
+export CONSUMER_SECRET=
+export ACCESS_KEY=
+export ACCESS_SECRET=
